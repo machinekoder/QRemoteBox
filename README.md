@@ -1,0 +1,4 @@
+QRemoteBox
+==========
+
+The QRemoteBox project
