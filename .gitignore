@@ -16,3 +16,9 @@
 *.exe
 *.out
 *.app
+
+# Other
+*.kdev4
+~*
+.directory
+.kdev_include_paths

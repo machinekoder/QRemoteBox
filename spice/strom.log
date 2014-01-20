@@ -1,0 +1,22 @@
+Circuit: * Z:\home\alexander\projects\QRemoteBox\spice\strom.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Jan 02 16:04:57 2014
+Total elapsed time: 0.062 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3592
+traniter = 3558
+tranpoints = 1668
+accept = 1538
+rejected = 130
+matrix size = 16
+fillins = 2
+solver = Normal
+Matrix Compiler1: 966 bytes object code size  0.6/0.3/[0.3]
+Matrix Compiler2: off  [0.2]/0.3/0.4
+
+
